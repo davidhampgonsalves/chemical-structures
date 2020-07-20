@@ -967,9 +967,9 @@ lodash.sortby@^4.7.0:
   integrity sha1-7dFMgk4sycHgsKG0K7UhBRakJDg=
 
 lodash@^4.16.2, lodash@^4.17.15:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 mime-db@1.42.0:
   version "1.42.0"
@@ -1412,9 +1412,10 @@ sdf-parser@^2.2.0:
   resolved "https://registry.yarnpkg.com/sdf-parser/-/sdf-parser-2.3.1.tgz#0faa85cc731e00ebd850dd85512971a66fe3615c"
   integrity sha512-h3XhcKwmA2YhqkL2gqjo6wQdYoqDgGEoXRFGHPlSx7Scayw3YVV4n5isHuSZbq8j77Km9r++fHATrB7JzlBniQ==
 
-"sdftosvg@https://github.com/ntr-808/sdftosvg":
-  version "0.1.0"
-  resolved "https://github.com/ntr-808/sdftosvg#2fa4b2c9705c021d1bb6608bc91b5055eee63481"
+sdftosvg@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/sdftosvg/-/sdftosvg-0.0.4.tgz#f9181bd42eadd960a3ba26bd86b7e34f1a9b1ca2"
+  integrity sha1-+Rgb1C6t2WCjuia9hrfjTxqbHKI=
   dependencies:
     commander "^2.9.0"
     d3 "^4.2.1"
