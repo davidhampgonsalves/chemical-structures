@@ -1412,9 +1412,10 @@ sdf-parser@^2.2.0:
   resolved "https://registry.yarnpkg.com/sdf-parser/-/sdf-parser-2.3.1.tgz#0faa85cc731e00ebd850dd85512971a66fe3615c"
   integrity sha512-h3XhcKwmA2YhqkL2gqjo6wQdYoqDgGEoXRFGHPlSx7Scayw3YVV4n5isHuSZbq8j77Km9r++fHATrB7JzlBniQ==
 
-"sdftosvg@https://github.com/ntr-808/sdftosvg":
-  version "0.1.0"
-  resolved "https://github.com/ntr-808/sdftosvg#2fa4b2c9705c021d1bb6608bc91b5055eee63481"
+sdftosvg@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/sdftosvg/-/sdftosvg-0.0.4.tgz#f9181bd42eadd960a3ba26bd86b7e34f1a9b1ca2"
+  integrity sha1-+Rgb1C6t2WCjuia9hrfjTxqbHKI=
   dependencies:
     commander "^2.9.0"
     d3 "^4.2.1"
@@ -1718,9 +1719,9 @@ wrappy@1:
   integrity sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=
 
 ws@^7.0.0:
-  version "7.2.1"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-7.2.1.tgz#03ed52423cd744084b2cf42ed197c8b65a936b8e"
-  integrity sha512-sucePNSafamSKoOqoNfBd8V0StlkzJKL2ZAhGQinCfNQ+oacw+Pk7lcdAElecBF2VkLNZRiIb5Oi1Q5lVUVt2A==
+  version "7.4.6"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-7.4.6.tgz#5654ca8ecdeee47c33a9a4bf6d28e2be2980377c"
+  integrity sha512-YmhHDO4MzaDLB+M9ym/mDA5z0naX8j7SIlT8f8z+I0VtzsRbekxEutHSme7NPS2qE8StCYQNUnfWdXta/Yu85A==
 
 xml-name-validator@^2.0.1:
   version "2.0.1"
